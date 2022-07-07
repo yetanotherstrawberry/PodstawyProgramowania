@@ -1,0 +1,5 @@
+i = int(input())
+uczniowie=list(map(int,input().split()))
+a = max(uczniowie)
+uczniowie.remove(max(uczniowie))
+print(a,max(uczniowie))
