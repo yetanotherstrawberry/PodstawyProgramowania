@@ -3,7 +3,7 @@
 ### C oraz Python
 
 Zadania zrealizowane w ramach przedmiotu "Podstawy programowania".
-Zajęcia były realizowane na I semestrze studiów inżynierskich z informatyki na UAM w Poznaniu.
+Zajęcia były realizowane na I semestrze dziennych studiów inżynierskich z informatyki na UAM w Poznaniu.
 Prowadzącym był Prof. Jerzy Szymański.
 Programy były wysyłane na portal Adjule, który automatycznie sprawdzał wyniki zadań.
 Niektóre wrzucone zadania były dodatkowe lub były wykonane w ramach kolokwiów.
