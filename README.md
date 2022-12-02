@@ -1,5 +1,5 @@
 # Postawy programowania
-## UAM 2019L
+## UAM 2019Z
 ### C oraz Python
 
 Zadania zrealizowane w ramach przedmiotu "Podstawy programowania".
